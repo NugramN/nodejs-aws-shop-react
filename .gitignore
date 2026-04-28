@@ -24,3 +24,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# CDK
+cdk/cdk.out
+cdk/node_modules

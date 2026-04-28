@@ -36,3 +36,10 @@ Runs tests in console, in browser or with coverage.
 ### `lint`, `prettier`
 
 Runs linting and formatting for all files in `src` folder.
+
+
+### CloudFront URL
+d36d0o6m2xkcks.cloudfront.net
+
+### S3 Website URL
+https://amarhun-bucket-cdk.s3.eu-north-1.amazonaws.com/
